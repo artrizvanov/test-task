@@ -1,0 +1,120 @@
+@mixin nav_a {
+  color: #000;
+  font-size: 12px;
+  padding: 0 !important;
+  font-weight: 600;
+}
+@mixin text_h1 {
+  font-size: 45px;
+  color: #000;  
+  margin-top: 25px;
+  margin-bottom: 15px;
+  font-weight: 600;
+}
+@mixin mini_text_h1 {
+  font-size: 30px !important;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+@mixin text_p {
+  font-size: 20px;
+  color: #000;
+  margin-bottom: 30px;
+}
+@mixin mini_text_p {
+  font-size: 16px;
+  color: #000;
+}
+@mixin btn_buy {
+  color: #fff !important;
+  background-color: #000 !important;
+  width: 393px;
+  height: 50px;
+  font-size: 14px;
+  border-radius: 0 !important;
+  font-weight: 900;
+}
+@mixin mini_btn_buy {
+  width: 320px !important;
+  font-size: 11px !important;
+}
+@mixin block_title_text {
+  font-size: 14px;
+  color: #000;
+  font-weight: 600;
+}
+@mixin mini_block_title_text {
+  font-size: 11px;
+}
+@mixin block_3_description {
+  font-size: 11px;
+  margin-top: 25px;
+  text-align: right;
+  font-weight: 600;
+}
+@mixin block_3_brand {
+  font-size: 20px;
+  margin-top: 1px;
+  text-align: right;
+}
+@mixin block_3_brand_lancome {
+  font-size: 24px;
+}
+@mixin block_3_price {
+  font-size: 23px;
+  font-weight: 800;
+  margin-top: 4px;
+  text-align: right;
+}
+@mixin block_3_old_price {
+  font-size: 23px;
+  color: #B3B3B3;
+  margin-top: 4px;
+  text-align: right;
+}
+@mixin block_3_buy {
+  font-size: 11px;
+  font-weight: 700;
+  text-align: right;
+}
+@mixin block_4_p1 {
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 30px;
+  text-align: center;
+  margin-bottom: 0;
+}
+@mixin block_4_p2 {
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 5px;
+  text-align: center;
+}
+@mixin block_4_p3 {
+  font-size: 14px;
+  font-weight: 900;
+  margin: auto;
+}
+@mixin block_4_p4 {
+  font-size: 11px;
+  margin-top: 18px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+@mixin block_4_h2 {
+  font-size: 50px;
+  font-weight: 600;
+  text-align: center;
+}
+@mixin footer_p1 {
+  font-size: 14px;
+  margin: 0 !important;
+  color: #fff;
+}
+@mixin footer_p2 {
+  font-size: 10px;
+  margin: 0 !important;
+  color: #fff;
+}
+
+
